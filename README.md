@@ -18,3 +18,6 @@ This Streamlit app visually demonstrates how a neural network can approximate di
   - Number of neurons per layer
   - Number of training epochs
   - Different non-linear functions
+
+
+  ## To run the app: streamlit run app.py
